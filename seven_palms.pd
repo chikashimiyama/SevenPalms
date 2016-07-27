@@ -30,6 +30,7 @@
 #X obj 44 349 vosim 12 3 37.5 -0.75;
 #X obj 346 346 vosim 6 10 150 0.25;
 #X obj 200 348 vosim 10 5 75 -0.25;
+#X obj 171 -63 comport;
 #X connect 0 0 21 0;
 #X connect 1 0 23 0;
 #X connect 2 0 22 0;
